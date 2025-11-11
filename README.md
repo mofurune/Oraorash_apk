@@ -4,11 +4,6 @@
 <!-- ![oraora技育展サムネ2](https://github.com/user-attachments/assets/0528b35b-512e-488f-a8fe-9ffd242dbd7f)
 <img width="1397" height="786" alt="oraora動画サムネ３" src="https://github.com/user-attachments/assets/773917e5-397d-4b57-a5d3-14cd590e9c5d" />
 <img width="1397" height="786" alt="oraoraDEMOサムネ" src="https://github.com/user-attachments/assets/0641d86b-cab6-4dc1-9a84-d1f92cdbd5b0" />
-
-
-https://youtu.be/WoJFK-IbKgA?si=UvcJQT-Z6B_3rL8j  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xRYd8dV40Ic?si=Gra-ID8Q_H_tP8Vl&amp;start=8574" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 -->
 ## プレイ動画
 
@@ -16,7 +11,7 @@ https://youtu.be/WoJFK-IbKgA?si=UvcJQT-Z6B_3rL8j
 
 ## 紹介動画（約３分）
 
-[![紹介動画](https://github.com/user-attachments/assets/773917e5-397d-4b57-a5d3-14cd590e9c5d)](https://www.youtube.com/embed/xRYd8dV40Ic?si=Gra-ID8Q_H_tP8Vl&amp;start=8574)
+[![紹介動画](https://github.com/user-attachments/assets/773917e5-397d-4b57-a5d3-14cd590e9c5d)](https://www.youtube.com/embed/xRYd8dV40Ic?si=Gra-ID8Q_H_tP8Vl&start=8574)
 
 # インストール方法
 
